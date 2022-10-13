@@ -1,0 +1,14 @@
+export const GET_POKEMONS = "GET_POKEMONS";
+export const SEARCH_POKEMONS = "SEARCH_POKEMONS";
+export const ORDER = "ORDER";
+export const ASCENDENTE = "ASCENDENTE";
+export const DESCENDENTE = "DESCENDENTE";
+export const RESET = "RESET";
+export const ATTACK_SORT = "ATTACK_SORT";
+export const TYPES_POKEMONS = "TYPES_POKEMONS";
+export const ORDER_TYPE = "ORDER_TYPE";
+export const GET_POKEMON_ID = "GET_POKEMON_ID";
+export const CLEAR_DETAIL = "CLEAR_DETAIL";
+export const EXISTING = "EXISTING";
+export const API = "API";
+export const DB = "DB";

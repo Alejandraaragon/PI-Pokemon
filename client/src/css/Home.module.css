@@ -1,0 +1,58 @@
+body {
+
+/* background-image: url(../imagenes/7.png);
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed; 
+ */
+}
+
+.containHome {
+
+  
+}
+
+.containTitleFilters {
+display: block;
+justify-content: center;
+align-items: center;
+text-align: center;
+
+
+
+}
+
+.btnReset {
+    padding: 7px;
+    margin: 5px;
+    border: none;
+    border-radius: 4px;
+    transition: 0.6s;
+    background-color: gold;
+    font-weight: bolder;
+    cursor: pointer;
+}
+.btnReset:hover{
+    background-color: gray;
+    box-shadow: 1px 1px 10px 5px rgb(39, 39, 39);
+  }
+
+.containCard{
+  /* direction: row;
+  justify-content: flex-start;
+  align-items: flex-start; */
+  justify-content: space-evenly;
+align-items: center;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+  }
+
+.containPaginado {
+
+}
+.Loading {
+    
+}
